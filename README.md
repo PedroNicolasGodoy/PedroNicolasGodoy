@@ -36,4 +36,7 @@ Otras herramientas son **Tableau** y naturalmente **Microsoft Excel**
 </p>
 
 
+- in/pedro-nicolas-godoy
 - 📫   pedronicogodoy@gmail.com
+- Mendoza - Argentina
+
